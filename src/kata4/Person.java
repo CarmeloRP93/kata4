@@ -53,7 +53,5 @@ public class Person {
     public String getWeb() {
         return web;
     }
-    
-    
-    
+       
 }
